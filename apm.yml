@@ -1,0 +1,24 @@
+name: react-ui-builder
+version: 1.0.0
+description: Generates production-ready webpages powered by Syncfusion React Components. Orchestrates
+  8-stage workflow that handles design thinking, component picking, code generation, and validation
+  with built-in WCAG 2.1 AA accessibility and responsive design. Use when building React UIs,
+  creating web components, designing interfaces, or generating frontend code.
+author: Syncfusion Inc
+keywords:
+  - react
+  - ui-components
+  - syncfusion
+  - code-generation
+  - design-system
+  - accessibility
+  - wcag
+license: Syncfusion Inc
+
+dependencies:
+  apm: []
+  mcp: []
+
+includes: auto
+
+scripts: {}
