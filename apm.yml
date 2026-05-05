@@ -16,7 +16,7 @@ keywords:
 license: Syncfusion Inc
 
 dependencies:
-  apm: []
+  apm: [syncfusion/react-ui-component-skills]
   mcp: []
 
 includes: auto
