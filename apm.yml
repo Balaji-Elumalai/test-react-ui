@@ -17,7 +17,7 @@ license: Syncfusion Inc
 
 dependencies:
   apm:
-    - https://github.com/syncfusion/blazor-ui-components-skills
+    - https://github.com/syncfusion/react-ui-components-skills
   mcp: []
 
 includes: auto
