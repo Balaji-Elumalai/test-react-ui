@@ -20,7 +20,7 @@ dependencies:
     - syncfusion/react-ui-components-skills
     - syncfusion/docx-editor-sdk-skills/skills/syncfusion-react-docx-editor
     - syncfusion/pdf-viewer-sdk-skills/skills/syncfusion-react-pdf-viewer
-    - spreadsheet-editor-sdk-skills/skills/syncfusion-react-spreadsheet-editor
+    - syncfusion/spreadsheet-editor-sdk-skills/skills/syncfusion-react-spreadsheet-editor
   mcp: []
 
 includes: auto
