@@ -17,7 +17,7 @@ license: Syncfusion Inc
 
 dependencies:
   apm:
-    - github/awesome-copilot/skills/review-and-refactor
+    - syncfusion/spreadsheet-editor-sdk-skills/skills/syncfusion-react-spreadsheet-editor
   mcp: []
 
 includes: auto
