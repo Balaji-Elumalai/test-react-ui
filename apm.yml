@@ -17,7 +17,7 @@ license: Syncfusion Inc
 
 dependencies:
   apm:
-    - https://github.com/syncfusion/pdf-viewer-sdk-skills/skills/syncfusion-react-pdf-viewer
+    - github/awesome-copilot/skills/review-and-refactor
   mcp: []
 
 includes: auto
