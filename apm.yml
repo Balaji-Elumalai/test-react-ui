@@ -1,5 +1,4 @@
 name: react-ui-builder
-version: 1.0.0
 description: Generates production-ready webpages powered by Syncfusion React Components. Orchestrates
   8-stage workflow that handles design thinking, component picking, code generation, and validation
   with built-in WCAG 2.1 AA accessibility and responsive design. Use when building React UIs,
@@ -17,7 +16,6 @@ license: Syncfusion Inc
 
 dependencies:
   apm:
-    - syncfusion/react-ui-components-skills
     - syncfusion/docx-editor-sdk-skills/skills/syncfusion-react-docx-editor
     - syncfusion/pdf-viewer-sdk-skills/skills/syncfusion-react-pdf-viewer
     - syncfusion/spreadsheet-editor-sdk-skills/skills/syncfusion-react-spreadsheet-editor
