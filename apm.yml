@@ -5,23 +5,9 @@ description: Generates production-ready webpages powered by Syncfusion React Com
   with built-in WCAG 2.1 AA accessibility and responsive design. Use when building React UIs,
   creating web components, designing interfaces, or generating frontend code.
 author: Syncfusion Inc
-keywords:
-  - react
-  - ui-components
-  - syncfusion
-  - code-generation
-  - design-system
-  - accessibility
-  - wcag
-license: Syncfusion Inc
 
 dependencies:
   apm:
     - syncfusion/docx-editor-sdk-skills/skills/syncfusion-react-docx-editor
     - syncfusion/pdf-viewer-sdk-skills/skills/syncfusion-react-pdf-viewer
     - syncfusion/spreadsheet-editor-sdk-skills/skills/syncfusion-react-spreadsheet-editor
-  mcp: []
-
-includes: auto
-
-scripts: {}
