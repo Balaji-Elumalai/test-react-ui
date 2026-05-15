@@ -15,8 +15,8 @@ keywords:
   - wcag
 license: Syncfusion Inc
 
-targets:
-   - copilot
+target:
+  - copilot
 
 dependencies:
   apm:
