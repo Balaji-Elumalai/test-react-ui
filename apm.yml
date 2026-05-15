@@ -15,9 +15,6 @@ keywords:
   - wcag
 license: Syncfusion Inc
 
-target:
-  - copilot
-
 dependencies:
   apm:
     - syncfusion/docx-editor-sdk-skills/skills/syncfusion-react-docx-editor
