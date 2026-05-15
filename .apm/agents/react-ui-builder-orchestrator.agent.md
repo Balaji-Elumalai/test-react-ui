@@ -1,5 +1,5 @@
 ---
-name: react-ui-build-orchestrator
+name: react-ui-build
 description: "Orchestrate 8-stage React UI development with Syncfusion components, design decisions, and validation"
 ---
 
